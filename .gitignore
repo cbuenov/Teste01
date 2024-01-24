@@ -10,3 +10,5 @@ y.txt
 !/Pasta03/p03_1.txt
 /Pasta04
 !/Pasta04/Subpasta04/sub4_1.txt
+/Pasta05/*
+!/Pasta05/Pasta05a/p05a.txt
