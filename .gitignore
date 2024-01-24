@@ -7,4 +7,4 @@ y.txt
 !/Pasta02/p02_2.txt
 !/Pasta02/p02_3.txt
 /Pasta03/*
-/Pasta03/p03_1.txt
+!/Pasta03/p03_1.txt
