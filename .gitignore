@@ -1,0 +1,16 @@
+/x.txt
+BUENO01.txt
+z.txt
+y.txt
+/Pasta01
+/Pasta02/*
+!/Pasta02/p02_2.txt
+!/Pasta02/p02_3.txt
+/Pasta03/*
+!/Pasta03/p03_1.txt
+/Pasta04
+!/Pasta04/Subpasta04/sub4_1.txt
+/Pasta05/*
+!/Pasta05/Pasta05a/p05b.txt
+!/Pasta05/p05.txt
+!/Pasta05/Pasta05a/p05a.txt
