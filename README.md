@@ -19,3 +19,25 @@ _sublinhada **composta com negrito** fica assim_
 2. Edit script
 3. Save script
 
+# PULEI O TUTORIAL PARA INSERÇÃO DE IMAGENS E LINKS
+
+## Inserção de código
+```
+function MainScriptLoad()
+{
+    // Procura o script principal
+    var arquivoScript = new File(path_scripts  + mainScriptName + '.' + scriptExtension);
+
+    // Chama o script
+    if (arquivoScript.exists)
+    {
+        //alert (arquivoScript.fullName);
+
+        $.evalFile(arquivoScript);        
+    }
+    else
+    {
+        alert(('O SCRIPT PRINCIPAL NÃO FOI ENCONTRADO:\n\n' + arquivoScript.fullName), 'ERRO', true);
+    }
+}
+```
