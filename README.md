@@ -22,7 +22,7 @@ _sublinhada **composta com negrito** fica assim_
 # PULEI O TUTORIAL PARA INSERÇÃO DE IMAGENS E LINKS
 
 ## Inserção de código
-```
+``` javascript
 function MainScriptLoad()
 {
     // Procura o script principal
@@ -40,4 +40,11 @@ function MainScriptLoad()
         alert(('O SCRIPT PRINCIPAL NÃO FOI ENCONTRADO:\n\n' + arquivoScript.fullName), 'ERRO', true);
     }
 }
+```
+
+```c#
+        private void btnHelpProjeto_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Indique para onde devo copiar as pastas do projeto.", "AJUDA", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
 ```
