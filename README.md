@@ -48,3 +48,7 @@ function MainScriptLoad()
             MessageBox.Show("Indique para onde devo copiar as pastas do projeto.", "AJUDA", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 ```
+## Lista de Tarefas a Fazer
+- [x] Comprar pneus
+- [ ] Fazer compras
+- [x] Vender drone
