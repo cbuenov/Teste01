@@ -3,7 +3,9 @@
 Teste de markdown
 
 ## O que faz:
-**linha 1**
-*linha 2*
+**negrito**
+*itálico*
+_linha sublinhada_
+_sublinhada **composta com negrito** fica assim_
 
 ###### titulo pequeno
